@@ -52,6 +52,10 @@ Demo Mode
 
 The application includes a Demo Mode to demonstrate the complete workflow when live AI API access is unavailable.
 
+Screenshots:
+ai-email-agent/src/images/image.png
+ai-email-agent/src/images/image2.png
+
 Future Improvements
 Gmail/Outlook integration
 Automatic email processing
